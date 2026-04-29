@@ -25,6 +25,5 @@ THRESHOLDS = {
 }
 
 # Obsidian 输出路径
-OBSIDIAN_VAULT = ""
+OBSIDIAN_VAULT = ""  # 你的 Obsidian vault 绝对路径
 OBSIDIAN_HEALTH_DIR = "健康"  # 会自动创建
-
